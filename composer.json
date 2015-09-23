@@ -1,0 +1,12 @@
+{
+    "name": "samsullivan/scheduler-api",
+    "require": {
+        "sparkphp/spark": "~0.4"
+    },
+    "authors": [
+        {
+            "name": "Sam Sullivan",
+            "email": "samsullivan09@gmail.com"
+        }
+    ]
+}
